@@ -18,7 +18,7 @@ Hi!👋 My name is Yang Ai. I am a third-year undergraduate student majoring in 
 <span class='anchor' id='education'></span>
 # 📖 Education
 * *2023.09 - Present*: Undergraduate student at **Hebei University of Technology**.
-* **GPA**: 3.87 / 4.0 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Rank**: 1 / 65 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Honors**: National Scholarship (2024-2025) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **English**: IELTS 6.0
+* **GPA**: 3.88 / 4.0 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Rank**: 1 / 65 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Honors**: National Scholarship (2024-2025) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **English**: IELTS 6.0
   * **Core Courses**: Probability and Statistics (100), Advanced Algebra I (99), Object-Oriented Programming (95), Algorithm Design and Analysis (95).
 
 
