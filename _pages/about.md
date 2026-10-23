@@ -12,11 +12,18 @@ redirect_from:
 # 👋 About Me!
 
 
-Hi!👋 My name is Yang Ai. I am a third-year undergraduate student majoring in Data Science and Big Data Technology at the School of Artificial Intelligence, Hebei University of Technology. My research interests include Large Language Models (LLMs), Graph Neural Networks (GNN), and Computer Vision (CV). ‼️ I am actively seeking 2026 Summer Camps and straight-to-PhD programs at top-tier universities for Fall 2027 entry. If you are interested in my research profile, I would be thrilled to connect.
+Hi! 👋 I’m **Yang Ai (艾洋)**, an undergraduate student majoring in **Data Science and Big Data Technology** at **Hebei University of Technology**. I have been admitted to the **master’s program in Computer Technology at Beijing Institute of Technology** through postgraduate recommendation.
+
+My research interests center on **representation learning in large models** and **AI agents**. My previous research and project experience spans industrial visual anomaly detection, efficient graph neural networks, and large language model fine-tuning.
+
+I’m always happy to connect with people who share similar research interests.
 
 
 <span class='anchor' id='education'></span>
 # 📖 Education
+* **Beijing Institute of Technology** — Master’s program in **Computer Technology**.
+  * **Status**: Admitted through postgraduate recommendation; enrollment pending.
+
 * *2023.09 - Present*: Undergraduate student at **Hebei University of Technology**.
 * **GPA**: 3.88 / 4.0 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Rank**: 1 / 65 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Honors**: National Scholarship (2024-2025) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **English**: IELTS 6.0
   * **Core Courses**: Probability and Statistics (100), Deep learning (100), Advanced Algebra I (99), Object-Oriented Programming (95), Algorithm Design and Analysis (95).
