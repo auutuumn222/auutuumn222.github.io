@@ -102,7 +102,7 @@ I’m always happy to connect with people who share similar research interests.
 
 
 <span class='anchor' id='notes-and-guides'></span>
-# 📚 Notes & Guides
+# 📚 Notes and Guides
 
 ### 空间转录组学入门：从生物学概念到 CS 数据与科研问题
 
