@@ -12,6 +12,9 @@ main:
   - title: "Projects"
     url: "/#projects"
 
+  - title: "Notes & Guides"
+    url: "/#notes-and-guides"
+
   - title: "Honors and Awards"
     url: "/#honors-and-awards"
 

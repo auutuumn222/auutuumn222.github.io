@@ -101,6 +101,18 @@ I’m always happy to connect with people who share similar research interests.
 </div>
 
 
+<span class='anchor' id='notes-and-guides'></span>
+# 📚 Notes & Guides
+
+### 空间转录组学入门：从生物学概念到 CS 数据与科研问题
+
+*中文 · 入门指南 · 29 页 · PDF（约 5 MB）*
+
+面向有计算机或人工智能背景、但对生物学基础概念不熟悉的读者。从细胞、DNA、RNA 和基因表达讲起，逐步连接到空间转录组的表达矩阵、空间坐标、组织图像与常见分析流程，并介绍相关科研问题和验证思路。
+
+<a href="{{ '/files/guides/spatial-transcriptomics-cs-ai-introduction.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">在线阅读</a> &nbsp;·&nbsp; <a href="{{ '/files/guides/spatial-transcriptomics-cs-ai-introduction.pdf' | relative_url }}" download="空间转录组学_CS_AI入门_讲义.pdf">下载 PDF</a>
+
+
 <span class='anchor' id='honors-and-awards'></span>
 # 🎖 Honors and Awards
 - *2025.10*  河北工业大学2024-2025学年, **国家奖学金**、校一等奖学金、校三好学生
