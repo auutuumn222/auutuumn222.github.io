@@ -55,6 +55,18 @@ I’m always happy to connect with people who share similar research interests.
 
 <span class='anchor' id='projects'></span>
 # 💻 Research and Projects
+<div class='paper-box'><div class='paper-box-image'><div><a href="{{ '/images/synapseflow-framework.jpg' | relative_url }}"><img src="{{ '/images/synapseflow-framework.jpg' | relative_url }}" alt="SynapseFlow system framework" width="100%" loading="lazy"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+**SynapseFlow—面向机器学习教学的知识图谱增强数字人问答系统** *(原型系统)*
+*2026.06* | [Code](https://github.com/auutuumn222/SynapseFlow)
+- 围绕机器学习教学问答，基于 DeepSeek-R1-Distill-Qwen-1.5B 实现本地 4-bit 量化推理，并设计 Unsloth / QLoRA 指令微调流程，探索授课风格对齐。
+- 从《统计学习方法》课程资料中抽取实体与关系，构建 Neo4j 知识图谱，结合语义向量检索与邻居扩展，为问答提供结构化知识上下文。
+- 基于 FastAPI 与 LiveTalking 搭建数字人问答原型，集成语音合成、WebRTC 与唇形同步，支持问答结果及关联知识子图的可视化展示。
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><img src="{{ '/images/知识卡片.png' | relative_url }}" alt="Knowledge Card" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
   
