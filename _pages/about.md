@@ -25,7 +25,7 @@ Hi!👋 My name is Yang Ai. I am a third-year undergraduate student majoring in 
 <span class='anchor' id='publications'></span>
 # 📝 Preprints and Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Accepted</div><img src='images/newFigure1_framework.png' alt="FA-EfficientAD Framework" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Accepted</div><img src="{{ '/images/newFigure1_framework.png' | relative_url }}" alt="FA-EfficientAD Framework" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **FA-EfficientAD: Foreground-Aware Localization and Adaptive Thresholding for Industrial Anomaly Detection**
@@ -35,7 +35,7 @@ Hi!👋 My name is Yang Ai. I am a third-year undergraduate student majoring in 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Preparation</div><img src='images/gnn.png' alt="GNN Survey" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Preparation</div><img src="{{ '/images/gnn.png' | relative_url }}" alt="GNN Survey" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **A Comprehensive Survey on Efficient Graph Neural Networks**
@@ -48,7 +48,7 @@ Hi!👋 My name is Yang Ai. I am a third-year undergraduate student majoring in 
 
 <span class='anchor' id='projects'></span>
 # 💻 Research and Projects
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/知识卡片.png' alt="Knowledge Card" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src="{{ '/images/知识卡片.png' | relative_url }}" alt="Knowledge Card" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **ZhiCard—基于LoRA微调的知识卡片生成与智能复习微信小程序**
@@ -60,7 +60,7 @@ Hi!👋 My name is Yang Ai. I am a third-year undergraduate student majoring in 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/计设.png' alt="FMAES Robot" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src="{{ '/images/计设.png' | relative_url }}" alt="FMAES Robot" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **FMAES 智慧巡检机器人—火情监测系统** *(核心成员)*
@@ -71,7 +71,7 @@ Hi!👋 My name is Yang Ai. I am a third-year undergraduate student majoring in 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/虚拟营造.png' alt="Virtual Construction" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src="{{ '/images/虚拟营造.png' | relative_url }}" alt="Virtual Construction" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **“虚拟营造”—虚拟营造-未来5G+AR智慧文旅领域的领跑者** *(项目负责人)*
@@ -89,7 +89,7 @@ Hi!👋 My name is Yang Ai. I am a third-year undergraduate student majoring in 
 - *2025.04*  第三届天津市大学生节能减排社会实践与科技竞赛, 天津市二等奖
 - *2024.10*  河北工业大学2023-2024学年, 校优秀学生干部
 <div align="center">
-  <img src="images/奖状.png" alt="奖状" width="80%">
+  <img src="{{ '/images/奖状.png' | relative_url }}" alt="奖状" width="80%" loading="lazy">
 </div>
 
 
@@ -102,5 +102,5 @@ Hi!👋 My name is Yang Ai. I am a third-year undergraduate student majoring in 
     * 担任班级班长，除日常组织班会外，依托个人学术优势开展常态化学业辅导，协助同学攻克专业课程难题，营造互助共进的学风氛围。
     * 组织并带领班级成员深入开展多项社会实践调研，具备扎实的团队统筹、跨群体沟通与现场执行能力。
 <div align="center">
-  <img src="images/实践.png" alt="实践" width="68%">
+  <img src="{{ '/images/实践.png' | relative_url }}" alt="实践" width="68%" loading="lazy">
 </div>

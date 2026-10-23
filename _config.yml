@@ -8,7 +8,9 @@
 # Site Settings
 title                    : "Yang Ai's Homepage"
 description              : "Hebei University of Technology"
-repository               : "auutuumn0017/auutuumn0017.github.io"
+url                      : "https://auutuumn222.github.io"
+baseurl                  : ""
+repository               : "auutuumn222/auutuumn222.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -37,7 +39,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "auutuumn0017"
+  github           : "auutuumn222"
   huggingface      : 
   wechat_qr        : #"images/wechat.JPG" # e.g., "images/wechat.JPG"
   google_plus      :
@@ -157,9 +159,3 @@ whitelist:
   - jemoji
 
 
-# HTML Compression
-# - http://jch.penibelst.de/
-compress_html:
-  clippings: all
-  ignore:
-    envs: development
