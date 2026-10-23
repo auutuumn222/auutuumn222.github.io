@@ -55,7 +55,7 @@ I’m always happy to connect with people who share similar research interests.
 
 <span class='anchor' id='projects'></span>
 # 💻 Research and Projects
-<div class='paper-box'><div class='paper-box-image'><div><a href="{{ '/images/synapseflow-framework.jpg' | relative_url }}"><img src="{{ '/images/synapseflow-framework.jpg' | relative_url }}" alt="SynapseFlow system framework" width="100%" loading="lazy"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div style="width: 80%; max-width: 300px;"><a href="{{ '/images/synapseflow-framework.jpg' | relative_url }}"><img src="{{ '/images/synapseflow-framework.jpg' | relative_url }}" alt="SynapseFlow system framework" width="100%" loading="lazy"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 **SynapseFlow—面向机器学习教学的知识图谱增强数字人问答系统**
