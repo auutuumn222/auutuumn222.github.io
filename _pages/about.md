@@ -101,6 +101,13 @@ I’m always happy to connect with people who share similar research interests.
 </div>
 
 
+### RAP DNA · 中文说唱关系档案
+
+从歌曲的制作、编曲、混音和母带署名出发，整理中文说唱的幕后创作者档案。可以按角色浏览创作者的合作作品，也可以比较两位 Rapper 的共同幕后创作者。每条合作关系都可追溯到对应歌曲与署名来源。
+
+[在线体验](https://auutuumn222.github.io/rap-dna/) · [GitHub 源码](https://github.com/auutuumn222/rap-dna)
+
+
 <span class='anchor' id='notes-and-guides'></span>
 # 📚 Notes and Guides
 
